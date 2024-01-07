@@ -1,0 +1,139 @@
+body {
+    margin: ;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.div-text {
+    position: absolute;
+}
+
+.header-img {}
+
+.description-text {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.description-class {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+    width: 630px;
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-text {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.div-text1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 92px;
+}
+
+.div-textp {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.div-text3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.div-image1 {
+    width: 802.9px;
+    height: 500px;
+}
+
+
+.div-image2 {
+    width: 1320px;
+    height: 600px;
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.div-hpa {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    bottom: 60px;
+    right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.class-h1 {
+    color: #FFF;
+
+    font-size: 64px;
+    width: 642px;
+    letter-spacing: 7.04px;
+}
+
+.class-p {
+    color: white;
+
+    font-size: 18px;
+    font-style: normal;
+    width: 697px;
+}
+
+.class-a {
+    color: #FFF;
+
+     
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+   
+}
