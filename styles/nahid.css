@@ -168,7 +168,7 @@ span {
     color: #FFF;
 }
 
-.class-new{
+.class-new {
     display: flex;
     gap: 50px;
     width: 1320px;
@@ -181,7 +181,7 @@ span {
 
 }
 
-.class-best{
+.class-best {
     color: #F00;
 
     font-family: Inter;
@@ -192,7 +192,7 @@ span {
 
 }
 
-.coming-s{
+.coming-s {
     color: #070211;
 
     font-size: 48px;
@@ -202,7 +202,7 @@ span {
 
 }
 
-.class-dl{
+.class-dl {
     color: rgba;
 
     font-size: 20px;
@@ -213,14 +213,14 @@ span {
 
 }
 
-.images-ellipes{
+.images-ellipes {
     border: 20px solid red;
     border-radius: 50%;
     padding: 30px;
 
 }
 
-.class-2024{
+.class-2024 {
     color: #F00;
     font-family: Inter;
     font-size: 48px;
@@ -231,22 +231,253 @@ span {
 
 }
 
-.class-do{
+.class-do {
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
-    
+
 }
-.class-what{
+
+.class-what {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    width: 1300px;
+    margin-top: 150px;
+
+}
+
+.class-is {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+
+}
+
+.class-on {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.parra-gap{
     
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    width: 1068px;
+    font-weight: 500;
     
 }
 
- 
+.class-button {}
+
+
+
+.class-75 {
+    position: relative;
+    width: 1320px;
+    height: 700px;
+    margin-top: 50px;
+}
+
+.img-group {
+    position: absolute;
+    bottom: 0px;
+}
+
+.img-74 {
+    position: absolute;
+    right: 330px;
+    top: 70px;
+}
+
+.img-44 {
+    position: absolute;
+    bottom: 229px;
+    right: 0;
+
+}
+
+.img-75 {
+    position: absolute;
+    left: 30px;
+}
+
+.class-the {
+    display: flex;
+    flex-direction: column;
+    width: 1300px;
+    margin: 120px;
+
+}
+
+.class-best {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+
+}
+
+.class-our {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+
+
+    font-weight: 900;
+
+    text-transform: capitalize;
+}
+
+.class-or {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    width: 896px;
+    font-weight: 400;
+
+
+}
+
+.class-news {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1120px;
+    padding: 70px;
+    height: 600px;
+}
+
+.class-sit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.class-sub {
+    color: #070211;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 48px;
+
+    font-weight: 900;
+
+    text-transform: capitalize;
+}
+
+.class-amit {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 400;
+
+}
+
+.search-bar {
+    display: flex;
+    gap: 0;
+}
+
+.class-button {
+    border-radius: 0 50px 50px 0;
+
+    color: #FFF;
+    width: 200px;
+    height: 72px;
+    border: 0;
+    background: #F00;
+}
+
+.input-field {
+    border-radius: 50px 0 0 50px;
+    width: 400px;
+    height: 72px;
+    border: 0cap;
+    padding: 0 30px;
+}
+
+footer {
+    background: #070211;
+    color: #FFF;
+    width: 1600px;
+    height: 609px;
+    margin: 0 auto;
+    padding: 50px 200px;
+    margin-top: 150px;
+}
+
+.class-big {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.class-na {
+    width: 375px;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+    line-height: 40px;
+
+
+}
+
+.class-aa {
+
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.class-br {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
+.class-vr {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
+
+.class-20 {
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+
+.class-un {
+
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+
+}
